@@ -1,2 +1,2 @@
 # Space Rangers
-my first pygame project.
+a pygame project.
